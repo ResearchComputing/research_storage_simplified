@@ -5,3 +5,9 @@ Want to learn the best practices for storing data on RC systems? This RC Quick B
 This session will be fully remote. The instructor will be available after the session to answer any questions. While not required, a CURC account and a basic familiarity with the Linux terminal will help in understanding the materials covered. To obtain an account, CU Boulder users should watch our Creating an Account video. RMACC members should refer to our RMACC Access to Alpine page.
  
 * What’s an RC Quick Byte?: An RC Quick Byte is a 20-30 minute session intended to provide essential information about a specific topic. You can expect to leave a 'Quick Byte' with the information you need to apply a tool, service, or concept.
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
